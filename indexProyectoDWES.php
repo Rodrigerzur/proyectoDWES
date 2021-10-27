@@ -29,7 +29,7 @@
                                 <span>Rodrigo.gerzur@educa.jcyl.es</span>	
                             </li>
                             <div class="github">
-                                <a href="https://github.com/Rodrigerzur/DWES">
+                                <a href="https://github.com/Rodrigerzur">
                                     <img src="webroot/media/img/logoGit.png" alt="github">
                                 </a>
                             </div>
@@ -149,7 +149,7 @@
                                 </div>
                             </a>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@
                                             <li><a href="">DWEC</a></li>
                                             <li><a href="">EIE</a></li>
                                             <li><a href="">DAW</a></li>
-                                            <li><a href="https://github.com/Rodrigerzur/DWES">GITHUB</a></li>
+                                            <li><a href="https://github.com/Rodrigerzur">GITHUB</a></li>
                                         </ul>
                                     </nav>
                                 </div>
