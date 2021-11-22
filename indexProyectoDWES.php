@@ -104,6 +104,38 @@
 
                         <!-- Ejercicio -->
                         <div class="col-xl-4 col-md-6">
+                            <a href="doc/Ejercicios TEMA 1.pdf">
+                                <div class="service">
+                                    <div class="listing_image">
+                                        <div class="listing_image_container">
+                                            <img src="webroot/media/img/cat.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
+                                        <div class="service_title"><h3>TEMA 01</h3></div>
+                                    </div>	
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <!-- Ejercicio -->
+                        <div class="col-xl-4 col-md-6">
+                            <a href="../proyectoTema3/indexProyectoTema3.php">
+                                <div class="service">
+                                    <div class="listing_image">
+                                        <div class="listing_image_container">
+                                            <img src="webroot/media/img/cat.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
+                                        <div class="service_title"><h3>TEMA 02</h3></div>
+                                    </div>	
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <!-- Ejercicio -->
+                        <div class="col-xl-4 col-md-6">
                             <a href="../proyectoTema3/indexProyectoTema3.php">
                                 <div class="service">
                                     <div class="listing_image">
