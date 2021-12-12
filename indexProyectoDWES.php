@@ -104,7 +104,7 @@
 
                         <!-- Ejercicio -->
                         <div class="col-xl-4 col-md-6">
-                            <a href="doc/Ejercicios TEMA 1.pdf">
+                            <a href="doc/Tema1/Ejercicios TEMA 1.pdf">
                                 <div class="service">
                                     <div class="listing_image">
                                         <div class="listing_image_container">
@@ -120,7 +120,7 @@
                         
                         <!-- Ejercicio -->
                         <div class="col-xl-4 col-md-6">
-                            <a href="../proyectoTema3/indexProyectoTema3.php">
+                            <a href="doc/Tema2/">
                                 <div class="service">
                                     <div class="listing_image">
                                         <div class="listing_image_container">
