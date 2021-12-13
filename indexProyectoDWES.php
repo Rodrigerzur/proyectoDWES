@@ -106,46 +106,64 @@
                         <div class="col-xl-4 col-md-6">
                             <a href="doc/Tema1/Ejercicios TEMA 1.pdf">
                                 <div class="service">
-                                    <div class="listing_image">
-                                        <div class="listing_image_container">
-                                            <img src="webroot/media/img/cat.jpeg" alt="">
+                                    <div class="mostrarejercicio">
+                                        <div class="listing_image">
+                                            <div class="listing_image_container">
+                                                <h3 style="color:red;">TEMA 1:</h3>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
-                                        <div class="service_title"><h3>TEMA 01</h3></div>
-                                    </div>	
+                                    <div class="mostrarcodigo">
+                                        <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
+                                            <div class="service_title">
+                                                <h3>DESARROLLO WEB EN ENTORNO SERVIDOR</h3></div>
+                                        </div>	
+                                    </div>
                                 </div>
                             </a>
                         </div>
-                        
+
                         <!-- Ejercicio -->
                         <div class="col-xl-4 col-md-6">
-                            <a href="doc/Tema2/">
+                            <a href="doc/Tema2/Documentación US.pdf">
                                 <div class="service">
-                                    <div class="listing_image">
-                                        <div class="listing_image_container">
-                                            <img src="webroot/media/img/cat.jpeg" alt="">
+                                    <div class="mostrarejercicio" data-hover="TEMA 2">
+                                        <div class="listing_image">
+                                            <div class="listing_image_container">
+                                                <h3>Documentacion US</h3>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
-                                        <div class="service_title"><h3>TEMA 02</h3></div>
-                                    </div>	
+                                    <a href="doc/Tema2/DocumentaciónWX.pdf">
+                                        <div class="mostrarcodigo" data-hover="TEMA 2">
+                                            <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
+                                                <div class="service_title">
+                                                    <h3>Documentacion WX</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
                                 </div>
                             </a>
                         </div>
-                        
+
                         <!-- Ejercicio -->
                         <div class="col-xl-4 col-md-6">
                             <a href="../proyectoTema3/indexProyectoTema3.php">
                                 <div class="service">
-                                    <div class="listing_image">
-                                        <div class="listing_image_container">
-                                            <img src="webroot/media/img/cat.jpeg" alt="">
+                                    <div class="mostrarejercicio">
+                                        <div class="listing_image">
+                                            <div class="listing_image_container">
+                                                <h3 style="color:red;">TEMA 3:</h3>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
-                                        <div class="service_title"><h3>TEMA 03</h3></div>
-                                    </div>	
+                                    <div class="mostrarcodigo">
+                                        <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
+                                            <div class="service_title">
+                                                <h3>CARACTERISTICAS DEL LENGUAJE PHP</h3></div>
+                                        </div>	
+                                    </div>
                                 </div>
                             </a>
                         </div>
@@ -154,30 +172,40 @@
                         <div class="col-xl-4 col-md-6">
                             <a href="../proyectoTema4/indexProyectoTema4.php">
                                 <div class="service">
-                                    <div class="listing_image">
-                                        <div class="listing_image_container">
-                                            <img src="webroot/media/img/cat.jpeg" alt="">
+                                    <div class="mostrarejercicio">
+                                        <div class="listing_image">
+                                            <div class="listing_image_container">
+                                                <h3 style="color:red;">TEMA 4:</h3>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
-                                        <div class="service_title"><h3>TEMA 04</h3></div>
-                                    </div>	
+                                    <div class="mostrarcodigo">
+                                        <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
+                                            <div class="service_title">
+                                                <h3>TECNICAS DE ACCESO A DATOS EN PHP</h3></div>
+                                        </div>	
+                                    </div>
                                 </div>
                             </a>
                         </div>
-
+                        
                         <!-- Ejercicio -->
                         <div class="col-xl-4 col-md-6">
                             <a href="../203DWESProyectoTema5/indexProyectoTema5.php">
                                 <div class="service">
-                                    <div class="listing_image">
-                                        <div class="listing_image_container">
-                                            <img src="webroot/media/img/cat.jpeg" alt="">
+                                    <div class="mostrarejercicio">
+                                        <div class="listing_image">
+                                            <div class="listing_image_container">
+                                                <h3 style="color:red;">TEMA 5:</h3>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
-                                        <div class="service_title"><h3>TEMA 05</h3></div>
-                                    </div>	
+                                    <div class="mostrarcodigo">
+                                        <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
+                                            <div class="service_title">
+                                                <h3>DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</h3></div>
+                                        </div>	
+                                    </div>
                                 </div>
                             </a>
                         </div>
@@ -194,7 +222,7 @@
                             <div class="col">
                                 <div class="footer_bar_content d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-start">
                                     <div class="copyright order-md-1 order-2">
-                                        2021-2022 Rodrigo Geras Zurrón</div>
+                                        2021-2022 Rodrigo Geras Zurrón &nbsp;&nbsp;&nbsp;     [Ultima Actualización] 13/12/2021 &nbsp;&nbsp;  V1.4</div>
                                     <nav class="footer_nav order-md-2 order-1 ml-md-auto">
                                         <ul class="d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-start">
                                             <li><a href="../index.php">Inicio</a></li>				
